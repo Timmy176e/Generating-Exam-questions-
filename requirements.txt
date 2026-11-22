@@ -1,0 +1,7 @@
+streamlit
+groq
+python-docx
+PyMuPDF
+pytesseract
+opencv-python-headless
+pillow
