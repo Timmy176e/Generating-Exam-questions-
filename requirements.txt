@@ -5,3 +5,4 @@ PyMuPDF
 pytesseract
 opencv-python-headless
 pillow
+numpy
