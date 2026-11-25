@@ -379,6 +379,8 @@ Rules:
 - If the material references a diagram, figure, or image (e.g. "as shown below", "the figure shows") but does not describe its content in words anywhere in the material given, do NOT write a question or sub-question that depends on knowing what that diagram shows.
 - Keep all mathematical notation and symbols EXACTLY as written in the material. For example, if the material writes a time shift as $t_o$, your question and model answer must also use $t_o$ — never substitute a different symbol such as $\\tau$ or $\\Delta t$, even if that symbol is more conventional in textbooks generally.
 - Spread questions across the material rather than clustering on the first paragraph.
+- Write every question as a normal, self-contained exam question — never mention "the material," "the document," "the passage," "the text provided," or similar. For example, write "What is the value of acceleration due to gravity (g) on Earth?" not "According to the material, what is the value of...". A student sitting the exam should never be able to tell the questions came from a source document.
+- Spread questions across the material rather than clustering on the first paragraph.
 
 STUDY MATERIAL:
 \"\"\"
